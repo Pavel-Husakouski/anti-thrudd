@@ -1,0 +1,20 @@
+{
+  "name": "anti-thrudd",
+  "private": true,
+  "version": "1.0.0",
+  "description": "An example of a simple node.js app that uses the tuco.js library to parse some data from a website.",
+  "author": "Pauel Husakouski <phusakouski@gmail.com>",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "lodash-node": "^3.3.1",
+    "tuco": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
