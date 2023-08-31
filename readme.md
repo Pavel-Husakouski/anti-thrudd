@@ -1,8 +1,8 @@
 # Anti-thrudd
 
-An expermental post-processor for [Thrudds Elite Dangerous Tools](https://edcodex.info/?m=tools&entry=4) trade route analyser from Cmdr Thrudd (now defunct).
+An expermental post-processor for [Thrudds Elite Dangerous Tools](https://edcodex.info/?m=tools&entry=4) trade route
+analyser from Cmdr Thrudd (now defunct).
 The main function is to parse the Thrudds tool output and find the loops in it.
-
 
 ## Goals
 
